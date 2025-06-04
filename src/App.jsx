@@ -217,7 +217,7 @@ function Card7({ onClick }) {
           </div>
         </div>
         <div className="c">
-          <img src="src/us.jpg" className="mx-auto h-36" />
+        <img src="/us.jpg" className="mx-auto h-36" />
           <p>I LOVE YOU SAYANGNYA AKU CINTANYA AKU MAMA KASANYA AKU MANJA MENGKEKNYA AKUU ALAM SEMESTANYA AKU LUCUNYA AKU IMUTNYA AKUUU BULANNYA AKUU💖🥰</p>
           <div className="btn">
             <button onClick={onClick}>ulang lagi</button>
